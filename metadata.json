@@ -1,0 +1,6 @@
+{
+  "name": "HORIZON X — Open World Driving Simulator",
+  "description": "High-octane browser open-world driving simulator featuring 4 seamless regions, arcade-sim physics, drifting, tuning, races, traffic, police pursuits, and day/night weather cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
